@@ -2,3 +2,6 @@ mysql-data
 .git
 .gitignore
 .env
+*.log
+node_modules
+__pycache__
